@@ -1,3 +1,5 @@
 # perfil
 Minha pagina pessoal
-Olá Mundo!
+Desafios para me tornar uma qa tester..
+## links
+Plataforma ótima para estudos (https://web.dio.me/)
